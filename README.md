@@ -1,24 +1,23 @@
-![MasterHead](https://gridinsoft.com/blogs/wp-content/uploads/2022/09/fake-notifications-from-CircleCI.png)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Dilmurat Idrisov</h1>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmurat777&label=Profile%20views&color=0e75b6&style=flat" alt="dilmurat777" /> </p>
 
-- 🔭 I’m currently working on honing my web development skills and expanding my knowledge in HTML, CSS, JavaScript, and React.js. I love diving into coding projects and exploring new techniques to create captivating web experiences. **I’m currently working on honing my web development skills and expanding my knowledge in HTML, CSS, JavaScript, and React.js. I love diving into coding projects and exploring new techniques to create captivating web experiences.**
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"/>
+- 🔭 I’m currently working on honing my web development skills and expanding my knowledge in HTML, CSS, JavaScript, and React.js. I love diving into coding projects and exploring new techniques to create captivating web experiences.
 
-- 🌱 I’m currently learning advanced JavaScript concepts and diving deeper into React.js to build more dynamic and interactive web applications. **I’m currently learning advanced JavaScript concepts and diving deeper into React.js to build more dynamic and interactive web applications.**
+- 🌱 I’m currently learning advanced JavaScript concepts and diving deeper into React.js to build more dynamic and interactive web applications.
 
-- 👯 I’m looking to collaborate on exciting web development projects. If you have any ideas or opportunities for collaboration, feel free to reach out to me. I'm always open to working with talented individuals and contributing to innovative projects. **I’m looking to collaborate on exciting web development projects. If you have any ideas or opportunities for collaboration, feel free to reach out to me. I'm always open to working with talented individuals and contributing to innovative projects.**
-- <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif"/>
+- 👯 I’m looking to collaborate on exciting web development projects. If you have any ideas or opportunities for collaboration, feel free to reach out to me. I'm always open to working with talented individuals and contributing to innovative projects.
 
-- 🤝 I’m looking for help with staying up-to-date with the latest web development trends and best practices. If you have any valuable resources or insights to share, I would greatly appreciate it. **I’m looking for help with staying up-to-date with the latest web development trends and best practices. If you have any valuable resources or insights to share, I would greatly appreciate it.**
+- 🤝 I’m looking for help with staying up-to-date with the latest web development trends and best practices. If you have any valuable resources or insights to share, I would greatly appreciate it.
 
+- 💬 Ask me about web development, front-end technologies, or any related topics. I'm happy to share my knowledge and engage in meaningful discussions.
 
-- 💬 Ask me about web development, front-end technologies, or any related topics. I'm happy to share my knowledge and engage in meaningful discussions. **Ask me about web development, front-end technologies, or any related topics. I'm happy to share my knowledge and engage in meaningful discussions.**
-
-- 📫 How to reach me: You can connect with me through LinkedIn (www.linkedin.com/in/mrdilmurat-idrisov) or drop me an email at [mrdilmurat777@gmail.com]. I'm looking forward to hearing from you! **How to reach me: You can connect with me through LinkedIn (www.linkedin.com/in/mrdilmurat-idrisov) or drop me an email at [mrdilmurat777@gmail.com]. I'm looking forward to hearing from you!**
+- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+- 📫 How to reach me: You can connect with me through LinkedIn (www.linkedin.com/in/mrdilmurat-idrisov) or drop me an email at [mrdilmurat777@gmail.com]. I'm looking forward to hearing from you!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilmurat777&show_icons=true&locale=en" alt="dilmurat777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilmurat777&" alt="dilmurat777" /></p>
+
